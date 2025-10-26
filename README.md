@@ -4,7 +4,7 @@
 Real-time basketball player tracking and mapping onto a 2D court template using computer vision and homography transformations.  
 The pipeline detects court keypoints and player positions from video footage and projects them onto a standardized court for tactical visualization.
 
-**Inspiration:** Based on a [LinkedIn post by Piotr Skalski](https://www.linkedin.com/in/piotr-skalski/).
+**Inspiration:** Based on a [LinkedIn post by Piotr Skalski](https://www.linkedin.com/posts/skalskip92_computervision-opensource-multimodal-activity-7333057483961217025-bIyP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFhjvx8BpCbKMiP-HDTAXhy8EHrvIU-FwlM).
 
 ---
 
