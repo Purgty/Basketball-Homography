@@ -117,6 +117,8 @@ dst_pts = {
     "center": np.array([[305.0, 35.0], [306.0, 182.0], [305.0, 330.0]], dtype=np.float32),
 }
 ```
+<img width="683" height="420" alt="Image" src="https://github.com/user-attachments/assets/6930818c-e9d9-4b20-9027-c16c3aa05cee" />
+
 ### Run mapping or video inference via notebook or CLI:
 
 ```bash
@@ -124,7 +126,7 @@ python src/video_homography.py     --input path/to/video.mp4 \                  
     --output path/to/output.mp4 \                    # Output file path  
     --court-model Models/court_model/weights/best.pt     --player-model Models/player_model/weights/best.pt     --court-map Assets/full-court.jpeg
 ```
-
+<img width="997" height="505" alt="Image" src="https://github.com/user-attachments/assets/3b0d0854-4e0b-44a6-aff8-731749d5d4c9" />
 ---
 
 ## Video Inference Workflow
