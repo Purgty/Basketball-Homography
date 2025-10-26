@@ -1,0 +1,33 @@
+0  # Left Top Left
+1  # Left 3P Top Left
+2  # Left FT Top Corner
+3  # Left FT Bottom Corner
+4  # Left 3P Bottom Left
+5  # Left Bottom Left
+6  # Left Under Basket
+7  # Left 3P Top Side
+8  # Left 3P Bottom Side
+9  # Left FT Above
+10  # Left FT
+11  # Left FT Below
+12  # Left Above 3P
+13  # Left 3P
+14  # Left Below 3P
+15  # Center Top
+16  # Center
+17  # Center Bottom
+18  # Right Above 3P                    
+19  # Right 3P                                
+20  # Right Below 3P              
+21  # Right FT Above                    
+22  # Right FT               
+23  # Right FT Below           
+24  # Right 3P Top Side            
+25  # Right 3P Bottom Side                
+26  # Right Under Basket           
+27  # Right Top Right             
+28  # Right 3P Top Right              
+29  # Right FT Top Corner              
+30  # Right FT Bottom Corner               
+31  # Right 3P Bottom Right                 
+32  # Right Bottom Right       

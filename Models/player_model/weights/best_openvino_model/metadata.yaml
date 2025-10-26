@@ -1,0 +1,30 @@
+description: Ultralytics YOLO11l model trained on /content/Basketball-Players-25/data.yaml
+author: Ultralytics
+date: '2025-10-23T15:41:08.633608'
+version: 8.3.220
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: Ball
+  1: Hoop
+  2: Period
+  3: Player
+  4: Ref
+  5: Shot Clock
+  6: Team Name
+  7: Team Points
+  8: Time Remaining
+args:
+  batch: 1
+  fraction: 1.0
+  half: false
+  int8: false
+  dynamic: false
+  nms: false
+channels: 3

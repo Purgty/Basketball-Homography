@@ -1,0 +1,7 @@
+# Ignore specified folders
+playground/
+Datasets/
+Output_Videos/
+.vscode/
+__pycache__/
+*.pyc
